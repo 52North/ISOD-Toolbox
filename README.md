@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project is no longer maintained and will not receive any further updates. If you plan to continue using it, please be aware that future security issues will not be addressed.
+
 # ISOD-Toolbox
 
 The ISOD Toolbox is an ILWIS 3.7 Open (or higher version) plug-in. It enables easy access to online data archives and supports their subsequent, efficient geospatial processing with ILWIS Open or other GI-Systems. When using this toolbox in conjunction with ILWIS 3.8, please use the appropriate EO Toolbox DLL.
